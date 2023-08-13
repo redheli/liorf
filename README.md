@@ -28,6 +28,12 @@ Blog：[LIO-SAM：配置环境、安装测试、适配自己采集数据集](htt
 
 Video：[基于LIO-SAM框架SLAM算法开发系列视频](https://space.bilibili.com/327643131/channel/collectiondetail?sid=945184&ctype=0)
 
+## Install Dependence
+
+```
+sudo apt-get install geographiclib-dev
+```
+
 ## Run the package
 
 1. Run the launch file:
